@@ -47,7 +47,8 @@ This project showcases a conversational chatbot built using **Streamlit**, integ
 **Explanation:**  
 "Once the response is ready, the bot uses a text-to-speech engine to convert the text into spoken words, ensuring a natural interaction."
 
----
+---![image](https://github.com/user-attachments/assets/526fa4ab-fa88-4c98-bbf4-ce0e15b518fb)
+
 
 ### **4. How the Bot Handles Interruptions**
 **Visual:** Bot speaking with a button press to stop it.  
